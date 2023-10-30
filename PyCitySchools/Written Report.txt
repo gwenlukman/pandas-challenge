@@ -1,0 +1,14 @@
+Summary
+All in all were 15 schools that were analyzed. There are 2 types of schools which are District and Charter.
+We calculated the total type, total students, total school budget, per student budget, average math score, average 
+reading score, % passing, % passing reading, % overall passing. We find out the highest performing schools
+and lowest ranking score by rankingthe % Overall Passing rate, the highest-performing ones were Cabrera High School, 
+Thomas High School and Griffin High School. We also analyzed the Math and Reading Scores by Grade, Schools by School
+Spending by using bins, scores by school size and scores by school types.
+
+Conclusions
+In conclusion, there is a negative linear correlation on the % overall passing and the amount of money school spends.
+Schools that spends $645-680 have a lower passing score of 53% than schools that spend lower than $585 have an
+overall spending score of 90%.
+Another conclusion we can draw is that the school type matters to the % overall passing. Charter type schools have a
+higher % Overall Passing of 90% while District type schools have a lower % Overall Passing of 53.7%.
